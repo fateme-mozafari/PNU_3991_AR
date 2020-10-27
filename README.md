@@ -3,9 +3,9 @@
 ### فاطمه مظفری
  
 ---
-- [حساب گیت هاب]()
+- [حساب گیت هاب](https://github.com/fateme-mozafari)
 
-- [رزومه]()
+- [رزومه](https://fateme-mozafari.github.io/fateme-mozafari/)
 
 - [SOP]()
 
