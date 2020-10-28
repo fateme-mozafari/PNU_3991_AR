@@ -7,7 +7,7 @@
 
 - [رزومه](https://fateme-mozafari.github.io/fateme-mozafari/)
 
-- [SOP]()
+- [SOP](https://fateme-mozafari.github.io/SOP/)
 
 
 ------------------
