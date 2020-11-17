@@ -9,7 +9,7 @@
 
 - [SOP](https://fateme-mozafari.github.io/SOP/)
 
-- [Certificates](https://mim-asadpour.github.io/Certificates/)
+- [Certificates](https://fateme-mozafari.github.io/Certificates/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
