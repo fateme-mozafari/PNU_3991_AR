@@ -1,5 +1,9 @@
-# PNU_3991_AR
+# [PNU_3991_AR](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+
 ---------
+
+<div dir="rtl">
+ 
 ### فاطمه مظفری
  
 
@@ -10,6 +14,20 @@
 - [SOP](https://fateme-mozafari.github.io/SOP/)
 
 - [Certificates](https://fateme-mozafari.github.io/Certificates/)
+
+------------------
+
+## ارزیابی ها
+
+>  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](FM_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](FM_GeneralSection_CheckList_AR_3991.pdf)
+
+>  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
+- [خلاصه ارزیابی درس نظریه زبان و ماشین]()
+
 
 ------------------
 ## Winter Semester Courses 1399/2020
