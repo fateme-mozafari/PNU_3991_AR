@@ -20,7 +20,7 @@
 ## ارزیابی ها
 
 >  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](FM_CV_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/fateme-mozafari/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](FM_GeneralSection_CheckList_AR_3991.pdf)
 
 >  بخش دروس کارشناسی
