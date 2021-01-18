@@ -25,7 +25,7 @@
 
 >  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/fateme-mozafari/PNU_3991_AR/blob/main/UserInterfaceDesgin/XX_UserInterfaceDesgin_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/fateme-mozafari/PNU_3991_AR/blob/main/HumanComputerInteraction/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس نظریه زبان و ماشین]()
 
 
