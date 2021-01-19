@@ -15,7 +15,7 @@
 
 
 ### چک لیست درس
-[ اینجا کلیک کنید](MA_HumanComputerInteraction_CheckList_AR_3991.pdf)
+[ اینجا کلیک کنید](https://github.com/fateme-mozafari/PNU_3991_AR/blob/main/HumanComputerInteraction/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 
  
