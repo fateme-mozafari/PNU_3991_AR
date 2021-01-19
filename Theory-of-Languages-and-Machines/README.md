@@ -15,7 +15,7 @@
 
 
 ### چک لیست درس
-[ اینجا کلیک کنید](MA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+[ اینجا کلیک کنید](https://github.com/fateme-mozafari/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 
  
